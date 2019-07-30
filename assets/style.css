@@ -1,0 +1,31 @@
+
+body{
+	background: #edf4f7;
+}
+.btn{
+	border: none;
+	padding: 6px 24px;
+	font-size: 1.1rem;
+	border-radius: 2px;
+}
+.btn-full{
+	width:100%;
+}
+.btn-info{
+	background: #84979d;
+}
+.btn-danger{
+	background: #d95353;
+}
+.btn-primary{
+	background: #4aaee6
+}
+input.form-control{
+	border-radius: 0;
+	border: none;
+	color: gray;
+	background: #ffffffa6
+}
+.table .thead-dark th{
+	background: #3a4558
+}
